@@ -1,5 +1,6 @@
 import unittest
-import words.words as words
+from ..src import words as words
+# import words.words as words
 
 class TestWords(unittest.TestCase):
 
